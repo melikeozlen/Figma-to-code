@@ -1,5 +1,5 @@
 # Figma-to-code
-Fifma da tasarlanmış web sitesinin kodlanması. 
+Figma ile tasarlanmış web sitesinin kodlanması. 
 JSON Server ile Fake REST Api Servisi oluşturulup, sitede kullanılan resimler Api ile çekilmiştir.
 
 Tasarım :  by <a
