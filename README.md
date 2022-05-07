@@ -18,6 +18,17 @@ Live Site URL: https://melikeozlen.github.io/Figma-to-code/
   <img width="500" height="auto" src="https://user-images.githubusercontent.com/44196940/167248434-83b24960-a108-4eb6-85de-573be54c53f3.PNG">
 </p>
 
+<div class="container" style="display: grid; grid-template-columns: 1fr 1fr; align-items: center;">
+        <img width="500" height="auto"
+            src="https://user-images.githubusercontent.com/44196940/167248432-0436e59d-5fec-468d-879b-d87b0b6b0e9e.PNG">
+        <div class="cont-2">
+            <img width="500" height="auto"
+                src="https://user-images.githubusercontent.com/44196940/167248434-83b24960-a108-4eb6-85de-573be54c53f3.PNG">
+
+            <img width="500" height="auto"
+                src="https://user-images.githubusercontent.com/44196940/167248434-83b24960-a108-4eb6-85de-573be54c53f3.PNG">
+        </div>
+    </div>
 ### Built with!
 - HTML
 - LESS
