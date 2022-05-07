@@ -6,7 +6,7 @@ Live Site URL: https://melikeozlen.github.io/Figma-to-code/
 ### Dektop~
 
 <p align="center">
-  <img width="250" height="250" src="https://user-images.githubusercontent.com/44196940/167248427-bd5d319f-97e4-4f77-8864-5b110328f808.PNG">
+  <img width="700" height="auto" src="https://user-images.githubusercontent.com/44196940/167248427-bd5d319f-97e4-4f77-8864-5b110328f808.PNG">
 </p>
 
            ds  |  ds
