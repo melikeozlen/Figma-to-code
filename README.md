@@ -2,7 +2,7 @@
 Fifma da tasarlanmış web sitesinin kodlanması. 
 JSON Server ile Fake REST Api Servisi oluşturulup, sitede kullanılan resimler Api ile çekilmiştir.
 
-Tasarım :  Created by <a
+Tasarım :  by <a
             href="https://www.figma.com/file/JXbKVQV6H8TuK9UDHl6e9d/NFT-Marketplace-Website-(Community)?node-id=1%3A64"
             target="_blank">Zarror</a>. <br>
 Live Site URL: https://melikeozlen.github.io/Figma-to-code/
